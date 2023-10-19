@@ -1,0 +1,7 @@
+{
+  "name": "GESTION_PEDA_MBL",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
